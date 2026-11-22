@@ -1,0 +1,96 @@
+- generic [ref=f7e5]:
+  - generic [ref=f7e6]:
+    - generic [ref=f7e7]:
+      - generic [ref=f7e44]:
+        - application [active] [aria-hidden] [ref=f7e52]
+        - status [ref=f7e160]: Screenreader support for the board is currently disabled. To enable it via Accessibility settings, press Ctrl+K, type Accessibility Settings, and press Enter. To see available keyboard shortcuts, enter Ctrl+Shift+Question mark .
+        - status [ref=f7e54]
+        - generic:
+          - generic:
+            - generic:
+              - region "Comments on canvas":
+                - button "Create new comment"
+                - button [ref=f7e161]
+        - generic: osama
+        - generic:
+          - region "Left sidebar":
+            - generic [ref=f7e55]:
+              - button "Main menu" [ref=f7e470]
+              - button "Expand UI for file named Freshcart [E-Commerce]" [ref=f7e471]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - button "Freshcart [E-Commerce], file name": Freshcart [E-Commerce]
+                      - generic: File name
+        - generic [ref=f7e60]:
+          - generic [ref=f7e62]:
+            - generic [ref=f7e64]:
+              - generic:
+                - generic:
+                  - group "People":
+                    - generic [ref=f7e66]:
+                      - button "Follow norangalil" [ref=f7e472]
+                      - img [ref=f7e75]:
+                        - generic [ref=f7e76]: "N"
+                    - generic [ref=f7e78]:
+                      - button "Follow osama" [ref=f7e473]
+                      - img [ref=f7e87]:
+                        - generic [ref=f7e88]: O
+            - button "Multiplayer tools" [ref=f7e474]:
+              - generic [ref=f7e93]: "3"
+          - button "50%, zoom and view options" [ref=f7e475]: 50%
+          - generic [ref=f7e100]:
+            - generic [ref=f7e101]:
+              - button "Present" [ref=f7e476]
+              - button "Prototype view" [ref=f7e477]
+            - button "Share" [ref=f7e478]
+      - generic:
+        - generic:
+          - generic:
+            - region "Application toolbar":
+              - generic [ref=f7e106]:
+                - toolbar "Editor" [ref=f7e479]:
+                  - generic [ref=f7e110]:
+                    - generic:
+                      - generic [ref=f7e171]:
+                        - generic [ref=f7e172]:
+                          - button "Move" [ref=f7e480]
+                          - button "Hand tool" [pressed] [ref=f7e481]
+                          - button "Comment" [ref=f7e482]
+                        - group "Frame" [ref=f7e483]:
+                          - button "Frame" [ref=f7e484]
+                          - button "Region tools" [ref=f7e485]
+                        - group "Rectangle" [ref=f7e486]:
+                          - button "Rectangle" [ref=f7e487]
+                          - button "Shape tools" [ref=f7e488]
+                        - group "Pen" [ref=f7e489]:
+                          - button "Pen" [ref=f7e490]
+                          - button "Creation tools" [ref=f7e491]
+                        - button "Text" [ref=f7e492]
+                        - button "Actions" [ref=f7e493]
+                      - text: Request sent
+                  - radiogroup "Toolbelt Mode" [ref=f7e494]:
+                    - generic [ref=f7e134]:
+                      - generic [ref=f7e142]:
+                        - radio "Design" [checked] [ref=f7e495]
+                        - generic [ref=f7e147]: Design
+                      - generic [ref=f7e148]:
+                        - radio "Motion" [ref=f7e496]
+                        - generic [ref=f7e153]: Motion
+                      - generic [ref=f7e154]:
+                        - radio "Dev Mode" [ref=f7e497]
+                        - generic [ref=f7e159]: Dev Mode
+                - generic [ref=f7e188]:
+                  - generic [ref=f7e189]: Sign up to comment, edit, inspect and more.
+                  - generic [ref=f7e190]:
+                    - button "Sign up" [ref=f7e498]
+                    - button "Continue with Google" [ref=f7e499]:
+                      - generic: Continue
+    - region "Help/zoom toolbar" [ref=f7e500]:
+      - toolbar "Help/zoom toolbar" [ref=f7e501]:
+        - button "Help" [ref=f7e502]
+  - generic:
+    - status
+    - group [ref=f7e36]:
+      - alert [ref=f7e38]
+      - alert [ref=f7e40]

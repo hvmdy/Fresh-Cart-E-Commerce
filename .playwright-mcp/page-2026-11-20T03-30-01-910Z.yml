@@ -1,0 +1,78 @@
+- generic [active] [ref=f3e1]:
+  - banner [ref=f3e2]:
+    - generic [ref=f3e5]:
+      - generic [ref=f3e6]: Free Shipping on Orders 500 EGP
+      - generic [ref=f3e12]: New Arrivals Daily
+    - generic [ref=f3e17]:
+      - link "FreshCart home" [ref=f3e18] [cursor=pointer]:
+        - /url: /
+        - img "FreshCart" [ref=f3e19]
+      - search [ref=f3e21]:
+        - generic [ref=f3e22]: Search for products, brands and more
+        - searchbox "Search for products, brands and more" [ref=f3e23]
+        - button "Search" [ref=f3e24] [cursor=pointer]
+      - status "Loading" [ref=f3e26]
+    - navigation "Primary navigation" [ref=f3e29]:
+      - list [ref=f3e30]:
+        - listitem [ref=f3e31]:
+          - link "Home" [ref=f3e32] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f3e33]:
+          - link "Products" [ref=f3e34] [cursor=pointer]:
+            - /url: /products
+        - listitem [ref=f3e35]:
+          - link "Categories" [ref=f3e36] [cursor=pointer]:
+            - /url: /categories
+        - listitem [ref=f3e39]:
+          - link "Brands" [ref=f3e40] [cursor=pointer]:
+            - /url: /brands
+  - region "Notifications alt+T"
+  - main [ref=f3e41]:
+    - heading "Groceries delivered fresh." [level=1] [ref=f3e42]
+  - contentinfo [ref=f3e43]:
+    - generic [ref=f3e44]:
+      - generic [ref=f3e45]:
+        - generic [ref=f3e46]:
+          - link "FreshCart home" [ref=f3e47] [cursor=pointer]:
+            - /url: /
+            - img "FreshCart" [ref=f3e48]
+          - paragraph [ref=f3e49]: Fresh picks for your table, with a little more convenience in every basket.
+          - generic "Follow FreshCart" [ref=f3e50]:
+            - link "Facebook" [ref=f3e51] [cursor=pointer]:
+              - /url: https://www.facebook.com/
+            - link "Instagram" [ref=f3e54] [cursor=pointer]:
+              - /url: https://www.instagram.com/
+            - link "YouTube" [ref=f3e58] [cursor=pointer]:
+              - /url: https://www.youtube.com/
+        - navigation "Shop" [ref=f3e61]:
+          - heading "Shop" [level=2] [ref=f3e62]
+          - list [ref=f3e63]:
+            - listitem [ref=f3e64]:
+              - link "All products" [ref=f3e65] [cursor=pointer]:
+                - /url: /products
+            - listitem [ref=f3e66]:
+              - link "Categories" [ref=f3e67] [cursor=pointer]:
+                - /url: /categories
+            - listitem [ref=f3e68]:
+              - link "Brands" [ref=f3e69] [cursor=pointer]:
+                - /url: /brands
+        - navigation "Your account" [ref=f3e70]:
+          - heading "Your account" [level=2] [ref=f3e71]
+          - list [ref=f3e72]:
+            - listitem [ref=f3e73]:
+              - link "My account" [ref=f3e74] [cursor=pointer]:
+                - /url: /profile
+            - listitem [ref=f3e75]:
+              - link "Wishlist" [ref=f3e76] [cursor=pointer]:
+                - /url: /wishlist
+            - listitem [ref=f3e77]:
+              - link "Shopping cart" [ref=f3e78] [cursor=pointer]:
+                - /url: /cart
+        - generic [ref=f3e79]:
+          - heading "Need a hand?" [level=2] [ref=f3e80]
+          - paragraph [ref=f3e81]: Our team is here to help with your order or account.
+          - link "support@freshcart.com" [ref=f3e82] [cursor=pointer]:
+            - /url: mailto:support@freshcart.com
+      - generic [ref=f3e86]:
+        - paragraph [ref=f3e87]: © 2026 FreshCart. All rights reserved.
+        - paragraph [ref=f3e88]: Fresh groceries, made easy

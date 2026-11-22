@@ -1,0 +1,22 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e10]:
+      - region "Left sidebar" [ref=e19]:
+        - toolbar "Navigation Bar" [ref=e20]:
+          - separator [ref=e23]
+      - generic [ref=e86]:
+        - button "100%, zoom and view options" [ref=e88]: 100%
+        - generic [ref=e90]:
+          - generic [ref=e91]:
+            - button "Present" [ref=e92]
+            - button "Prototype view" [ref=e93]
+          - button "Share" [ref=e95]
+      - status [ref=e98]: Loading
+    - region "Help/zoom toolbar" [ref=e118]:
+      - toolbar "Help/zoom toolbar" [ref=e120]:
+        - button "Help" [ref=e123]
+  - generic:
+    - status
+    - group [ref=e125]:
+      - alert [ref=e127]
+      - alert [ref=e129]

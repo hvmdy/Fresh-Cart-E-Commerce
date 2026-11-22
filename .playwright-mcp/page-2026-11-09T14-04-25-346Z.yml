@@ -1,0 +1,43 @@
+- generic [ref=f127e6]:
+  - link "Figma logo that can be used to navigate to homepage" [ref=f127e8] [cursor=pointer]:
+    - /url: /
+  - heading "The page you are looking for can't be found." [level=2] [ref=f127e17]
+  - generic [ref=f127e22]:
+    - link [ref=f127e24] [cursor=pointer]:
+      - /url: /
+    - generic [ref=f127e31]:
+      - link "FigJam" [ref=f127e32] [cursor=pointer]:
+        - /url: /figjam
+      - link "Enterprise" [ref=f127e33] [cursor=pointer]:
+        - /url: /enterprise
+      - link "Learn" [ref=f127e34] [cursor=pointer]:
+        - /url: https://help.figma.com
+      - link "Education" [ref=f127e35] [cursor=pointer]:
+        - /url: /education
+      - link "Careers" [ref=f127e36] [cursor=pointer]:
+        - /url: /careers
+      - link "Pricing" [ref=f127e37] [cursor=pointer]:
+        - /url: /pricing
+      - link "Developers" [ref=f127e38] [cursor=pointer]:
+        - /url: /developers
+      - link "Blog" [ref=f127e39] [cursor=pointer]:
+        - /url: /blog
+      - link "Downloads" [ref=f127e40] [cursor=pointer]:
+        - /url: /downloads
+      - link "Releases" [ref=f127e41] [cursor=pointer]:
+        - /url: https://www.figma.com/release-notes/
+      - link "Security" [ref=f127e42] [cursor=pointer]:
+        - /url: /security
+      - link "Legal" [ref=f127e43] [cursor=pointer]:
+        - /url: /legal
+      - link "Contact" [ref=f127e44] [cursor=pointer]:
+        - /url: /contact
+    - generic [ref=f127e45]:
+      - link [ref=f127e46] [cursor=pointer]:
+        - /url: https://twitter.com/figma
+      - link [ref=f127e50] [cursor=pointer]:
+        - /url: https://www.youtube.com/figmadesign
+      - link [ref=f127e54] [cursor=pointer]:
+        - /url: https://www.instagram.com/figmadesign
+      - link [ref=f127e58] [cursor=pointer]:
+        - /url: https://www.facebook.com/figmadesign

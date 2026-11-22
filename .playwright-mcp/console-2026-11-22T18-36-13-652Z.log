@@ -1,0 +1,151 @@
+[      97ms] [ERROR] ./src/app/(pages)/wishlist/page.tsx:99:15
+Error: Expression expected
+   97 |                 className="grid grid-cols-[minmax(0,1.8fr)_minmax(110px,.7fr)_minmax(100p...
+   98 |                 key={}
+>  99 |               >
+      |               ^
+  100 |                 <div className="flex min-w-0 items-center gap-3">
+  101 |                   <ProductThumbnail product={product} />
+  102 |                   <div className="min-w-0">
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(pages)/wishlist/page.tsx [Client Component Browser]
+    ./src/app/(pages)/wishlist/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(pages)/wishlist/page.tsx [Client Component SSR]
+    ./src/app/(pages)/wishlist/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js:1037
+[     317ms] [ERROR] ./src/app/(pages)/wishlist/page.tsx:99:15
+Error: Expression expected
+   97 |                 className="grid grid-cols-[minmax(0,1.8fr)_minmax(110px,.7fr)_minmax(100p...
+   98 |                 key={}
+>  99 |               >
+      |               ^
+  100 |                 <div className="flex min-w-0 items-center gap-3">
+  101 |                   <ProductThumbnail product={product} />
+  102 |                   <div className="min-w-0">
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(pages)/wishlist/page.tsx [Client Component Browser]
+    ./src/app/(pages)/wishlist/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(pages)/wishlist/page.tsx [Client Component SSR]
+    ./src/app/(pages)/wishlist/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js:1037
+[     331ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js:761
+[     408ms] [ERROR] ./src/app/(pages)/wishlist/page.tsx:99:15
+Error: Expression expected
+   97 |                 className="grid grid-cols-[minmax(0,1.8fr)_minmax(110px,.7fr)_minmax(100p...
+   98 |                 key={}
+>  99 |               >
+      |               ^
+  100 |                 <div className="flex min-w-0 items-center gap-3">
+  101 |                   <ProductThumbnail product={product} />
+  102 |                   <div className="min-w-0">
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(pages)/wishlist/page.tsx [Client Component Browser]
+    ./src/app/(pages)/wishlist/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(pages)/wishlist/page.tsx [Client Component SSR]
+    ./src/app/(pages)/wishlist/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js:1037
+[     500ms] [ERROR] ./src/app/(pages)/wishlist/page.tsx:99:15
+Error: Expression expected
+   97 |                 className="grid grid-cols-[minmax(0,1.8fr)_minmax(110px,.7fr)_minmax(100p...
+   98 |                 key={}
+>  99 |               >
+      |               ^
+  100 |                 <div className="flex min-w-0 items-center gap-3">
+  101 |                   <ProductThumbnail product={product} />
+  102 |                   <div className="min-w-0">
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(pages)/wishlist/page.tsx [Client Component Browser]
+    ./src/app/(pages)/wishlist/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(pages)/wishlist/page.tsx [Client Component SSR]
+    ./src/app/(pages)/wishlist/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js:1037
+[     593ms] [ERROR] ./src/app/(pages)/wishlist/page.tsx:99:15
+Error: Expression expected
+   97 |                 className="grid grid-cols-[minmax(0,1.8fr)_minmax(110px,.7fr)_minmax(100p...
+   98 |                 key={}
+>  99 |               >
+      |               ^
+  100 |                 <div className="flex min-w-0 items-center gap-3">
+  101 |                   <ProductThumbnail product={product} />
+  102 |                   <div className="min-w-0">
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(pages)/wishlist/page.tsx [Client Component Browser]
+    ./src/app/(pages)/wishlist/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(pages)/wishlist/page.tsx [Client Component SSR]
+    ./src/app/(pages)/wishlist/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js:1037
+[     686ms] [ERROR] ./src/app/(pages)/wishlist/page.tsx:99:15
+Error: Expression expected
+   97 |                 className="grid grid-cols-[minmax(0,1.8fr)_minmax(110px,.7fr)_minmax(100p...
+   98 |                 key={}
+>  99 |               >
+      |               ^
+  100 |                 <div className="flex min-w-0 items-center gap-3">
+  101 |                   <ProductThumbnail product={product} />
+  102 |                   <div className="min-w-0">
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/app/(pages)/wishlist/page.tsx [Client Component Browser]
+    ./src/app/(pages)/wishlist/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/(pages)/wishlist/page.tsx [Client Component SSR]
+    ./src/app/(pages)/wishlist/page.tsx [Server Component] @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js:1037
+[    1208ms] [LOG] Running frontend commit e40fb63956b5f0f7186069c6f68db740d4d97614 @ https://www.figma.com/design/7GOjynvDWj2Lnbb4IKjbXK/Freshcart---E-Commerce-?node-id=38-16060&t=RXAQMzemdTU3qM2f-4:712
+[    1737ms] [WARNING] [DEPRECATED] loadable is deprecated and will be removed in v3. Please use a userland util with the `unwrap` util: https://github.com/pmndrs/jotai/pull/3217 @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143
+[    1932ms] [WARNING] Statsig is not ready to log exposures, will retry in 1 seconds @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143
+[    1970ms] [LOG] Loaded 200 scripts (12274881b), 200 from cache (12274881b) @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143
+[    2345ms] [LOG] [import] git: 1c94920944ac8a14625ea44bb7cf0031ea8e974c, stamp: CF32A1A1EF3E7B29 @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143
+[    2429ms] [ERROR] Failed to load resource: the server responded with a status of 403 (Forbidden) @ https://browser-intake-datadoghq.com/api/v2/rum:1
+[    2522ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.figma.com/api/files/7GOjynvDWj2Lnbb4IKjbXK/audios:1
+[    2716ms] [INFO] [Fullscreen] Booting... (emscripten version 4.0.21) @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143
+[    2762ms] [INFO] [GPU] graphicsAPI:"WebGL 2", vendor:"Google Inc. (NVIDIA)", renderer:"ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 (0x00002544) Direct3D11 vs_5_0 ps_5_0, D3D11)" version:"OpenGL ES 3.0 (WebGL 2.0 (OpenGL ES 3.0 Chromium))" @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143
+[    2768ms] [LOG] [Fullscreen] Ready in 428.4ms @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143
+[    2775ms] [WARNING] Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently @ https://www.figma.com/webpack-artifacts/assets/53962-a1c0a374b1d1a36e.min.js.br:1670
+[    2781ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://www.figma.com/webpack-artifacts/assets/82162-f9721cd8cd3816e3.min.js.br:32
+[    2782ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://www.figma.com/webpack-artifacts/assets/82162-f9721cd8cd3816e3.min.js.br:32
+[    2935ms] [INFO] [FullscreenApp] calling setEditorTheme and setting preference light @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143
+[    2972ms] [INFO] [MultiplayerSession] connecting to wss://www.figma.com/api/multiplayer/7GOjynvDWj2Lnbb4IKjbXK?role=editor&tracking_session_id=asLOHaAdRIR9lb2p&version=279&recentReload=0&file-load-streaming-compression=&scenegraph-queries-initial-nodes=38%3A16060&client_release=e40fb63956b5f0f7186069c6f68db740d4d97614&force-dpl-journaled-reconnect=1 @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143
+[    2987ms] [INFO] [FullscreenApp] calling setEditorTheme and setting preference light @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143
+[    3718ms] [WARNING] pixel already configured. @ https://pixel.byspotify.com/ping.min.js:1
+[    4308ms] [INFO] [MultiplayerSession] Joining file version 106 (initial load) @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143
+[    5146ms] [LOG] Migration succeeded: context: fullscreen_migrate_SceneGraphManager, version: 106, duration: 0ms. @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143
+[    7001ms] [WARNING] Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently @ https://static.figma.com/fullscreen/e40fb63956b5f0f7186069c6f68db740d4d97614/fullscreen-wasm/compiled_wasm.js.br:2
+[    7124ms] [WARNING] Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently @ https://static.figma.com/fullscreen/e40fb63956b5f0f7186069c6f68db740d4d97614/fullscreen-wasm/compiled_wasm.js.br:2
+[    7180ms] [INFO] afterJoinEnd PageSyncing: Loaded incrementally {loaded_pages: 12:2477} @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143
+[    7702ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.figma.com/api/files/batch:1
+[    7758ms] [INFO] [Sprigma] Sprig SDK is ready @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143
+[    7774ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143
+[    7855ms] [ERROR] Not signed in with the identity provider. @ https://www.figma.com/design/7GOjynvDWj2Lnbb4IKjbXK/Freshcart---E-Commerce-?node-id=38-16060:1
+[    8342ms] [LOG] [Fullscreen] loadtime=7.13s maxmem=95877328 @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143
+[    9468ms] [WARNING] Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently @ https://www.figma.com/webpack-artifacts/assets/figma_app-38bfc942ef730858.min.js.br:47
+[    9547ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143
+[   20064ms] [INFO] [Image] Generating thumbnail from image , drop 3 mips, 2160x2441 20.11 MB to 270x306 0.32 MB @ https://www.figma.com/webpack-artifacts/assets/vendor-dced999807bc1189.min.js.br:143

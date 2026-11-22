@@ -1,0 +1,142 @@
+- generic [ref=f7e5]:
+  - generic [ref=f7e6]:
+    - generic [ref=f7e7]:
+      - generic [ref=f7e44]:
+        - application [aria-hidden] [ref=f7e52]
+        - status [aria-hidden] [ref=f7e160]: Screenreader support for the board is currently disabled. To enable it via Accessibility settings, press Ctrl+K, type Accessibility Settings, and press Enter. To see available keyboard shortcuts, enter Ctrl+Shift+Question mark .
+        - status [ref=f7e54]
+        - button [ref=f7e161]
+        - generic [aria-hidden]:
+          - generic: osama
+        - generic [ref=f7e55]:
+          - button [ref=f7e349]
+          - button [ref=f7e350]:
+            - generic:
+              - generic:
+                - generic:
+                  - button: Freshcart [E-Commerce]
+                  - generic: File name
+        - generic [ref=f7e60]:
+          - generic [ref=f7e62]:
+            - generic [ref=f7e64]:
+              - generic:
+                - generic:
+                  - group:
+                    - generic [ref=f7e66]:
+                      - button [ref=f7e351]
+                      - img [ref=f7e75]:
+                        - generic [ref=f7e76]: "N"
+                    - generic [ref=f7e78]:
+                      - button [ref=f7e352]
+                      - img [ref=f7e87]:
+                        - generic [ref=f7e88]: O
+            - button [ref=f7e353]:
+              - generic [ref=f7e93]: "3"
+          - button [expanded] [ref=f7e354]: 100%
+          - generic [ref=f7e100]:
+            - generic [ref=f7e101]:
+              - button [ref=f7e356]
+              - button [ref=f7e357]
+            - button [ref=f7e358]:
+              - generic: Share
+      - generic [aria-hidden]:
+        - generic:
+          - generic:
+            - region:
+              - generic [ref=f7e106]:
+                - toolbar [ref=f7e359]:
+                  - generic [ref=f7e110]:
+                    - generic:
+                      - generic [ref=f7e171]:
+                        - generic [ref=f7e172]:
+                          - button [ref=f7e360]
+                          - button [pressed] [ref=f7e361]
+                          - button [ref=f7e362]
+                        - group [ref=f7e363]:
+                          - button [ref=f7e364]
+                          - button [ref=f7e365]
+                        - group [ref=f7e366]:
+                          - button [ref=f7e367]
+                          - button [ref=f7e368]
+                        - group [ref=f7e369]:
+                          - button [ref=f7e370]
+                          - button [ref=f7e371]
+                        - button [ref=f7e372]
+                        - button [ref=f7e373]
+                      - text: Request sent
+                  - radiogroup [ref=f7e374]:
+                    - generic [ref=f7e133]: Toolbelt Mode
+                    - generic [ref=f7e134]:
+                      - generic [ref=f7e142]:
+                        - radio [checked] [ref=f7e375]
+                        - generic [ref=f7e147]: Design
+                      - generic [ref=f7e148]:
+                        - radio [ref=f7e376]
+                        - generic [ref=f7e153]: Motion
+                      - generic [ref=f7e154]:
+                        - radio [ref=f7e377]
+                        - generic [ref=f7e159]: Dev Mode
+                - generic [ref=f7e188]:
+                  - generic [ref=f7e189]: Sign up to comment, edit, inspect and more.
+                  - generic [ref=f7e190]:
+                    - button [ref=f7e378]:
+                      - generic: Sign up
+                    - button [ref=f7e379]:
+                      - generic: Continue
+    - region [ref=f7e380]:
+      - toolbar [ref=f7e381]:
+        - button [ref=f7e382]
+  - group [ref=f7e36]:
+    - alert [ref=f7e38]
+    - alert [ref=f7e40]
+  - menu "100%, zoom and view options" [ref=f7e388]:
+    - generic [ref=f7e389]:
+      - generic [ref=f7e390]: Zoom/view options
+      - textbox "Zoom/view options" [active] [ref=f7e391]: 100%
+    - separator [ref=f7e392]
+    - menuitem [ref=f7e393]:
+      - generic [ref=f7e394]:
+        - text: Zoom in
+        - generic [aria-hidden] [ref=f7e396]: Ctrl++
+    - menuitem [ref=f7e397]:
+      - generic [ref=f7e398]:
+        - text: Zoom out
+        - generic [aria-hidden] [ref=f7e400]: Ctrl+–
+    - menuitem [ref=f7e401]:
+      - generic [ref=f7e402]:
+        - text: Zoom to fit
+        - generic [aria-hidden] [ref=f7e404]: "1"
+    - menuitemcheckbox "Zoom to 50%" [ref=f7e405]
+    - menuitemcheckbox [checked] [ref=f7e409]:
+      - generic [ref=f7e410]:
+        - text: Zoom to 100%
+        - generic [aria-hidden] [ref=f7e414]: Ctrl+0
+    - menuitemcheckbox "Zoom to 200%" [ref=f7e415]
+    - separator [ref=f7e419]
+    - menuitem "Pixel preview" [ref=f7e420]
+    - menuitemcheckbox [checked] [ref=f7e428]:
+      - generic [ref=f7e429]:
+        - text: Pixel grid
+        - generic [aria-hidden] [ref=f7e433]: Shift+′
+    - menuitemcheckbox [checked] [ref=f7e434]:
+      - generic [ref=f7e435]:
+        - text: Snap to pixel grid
+        - generic [aria-hidden] [ref=f7e439]: Ctrl+Shift+′
+    - menuitemcheckbox [ref=f7e440]:
+      - generic [ref=f7e441]:
+        - text: Rulers
+        - generic [aria-hidden] [ref=f7e445]: Shift+R
+    - menuitemcheckbox [checked] [ref=f7e446]:
+      - generic [ref=f7e447]:
+        - text: Multiplayer cursors
+        - generic [aria-hidden] [ref=f7e451]: Ctrl+Alt+\
+    - menuitemcheckbox "Additional labels" [checked] [ref=f7e452]
+    - separator [ref=f7e456]
+    - menuitemcheckbox [checked] [disabled] [ref=f7e457]:
+      - generic [ref=f7e458]:
+        - text: Comments
+        - generic [aria-hidden] [ref=f7e462]: Shift+C
+    - menuitemcheckbox [ref=f7e463]:
+      - generic [ref=f7e464]:
+        - text: Prototyping
+        - generic [aria-hidden] [ref=f7e468]: Shift+E

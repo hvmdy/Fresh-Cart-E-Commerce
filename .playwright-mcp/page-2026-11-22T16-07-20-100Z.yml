@@ -1,0 +1,134 @@
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - generic [ref=e46]:
+        - application [aria-hidden] [ref=e158]
+        - status [aria-hidden] [ref=e55]: Screenreader support for the board is currently disabled. To enable it via Accessibility settings, press Ctrl+K, type Accessibility Settings, and press Enter. To see available keyboard shortcuts, enter Ctrl+Shift+Question mark .
+        - status [ref=e57]
+        - generic [ref=e58]:
+          - button [ref=e159]
+          - button [ref=e160]:
+            - generic:
+              - generic:
+                - generic:
+                  - button: Freshcart [E-Commerce]
+                  - generic: File name
+        - generic [ref=e63]:
+          - generic [ref=e65]:
+            - generic [ref=e67]:
+              - generic:
+                - generic:
+                  - group:
+                    - generic [ref=e69]:
+                      - button [ref=e161]
+                      - img [ref=e78]:
+                        - generic [ref=e79]: K
+            - button [ref=e162]
+          - button [expanded] [ref=e163]: 29%
+          - generic [ref=e96]:
+            - generic [ref=e97]:
+              - button [ref=e165]
+              - button [ref=e166]
+            - button [ref=e167]:
+              - generic: Share
+      - generic [aria-hidden]:
+        - generic:
+          - generic:
+            - region:
+              - generic [ref=e102]:
+                - toolbar [ref=e168]:
+                  - generic [ref=e106]:
+                    - generic:
+                      - generic [ref=e109]:
+                        - generic [ref=e110]:
+                          - button [ref=e169]
+                          - button [pressed] [ref=e170]
+                          - button [ref=e171]
+                        - group [ref=e172]:
+                          - button [ref=e173]
+                          - button [ref=e174]
+                        - group [ref=e175]:
+                          - button [ref=e176]
+                          - button [ref=e177]
+                        - group [ref=e178]:
+                          - button [ref=e179]
+                          - button [ref=e180]
+                        - button [ref=e181]
+                        - button [ref=e182]
+                      - text: Request sent
+                  - radiogroup [ref=e183]:
+                    - generic [ref=e130]: Toolbelt Mode
+                    - generic [ref=e131]:
+                      - generic [ref=e133]:
+                        - radio [checked] [ref=e184]
+                        - generic [ref=e138]: Design
+                      - generic [ref=e139]:
+                        - radio [ref=e185]
+                        - generic [ref=e144]: Motion
+                      - generic [ref=e145]:
+                        - radio [ref=e186]
+                        - generic [ref=e150]: Dev Mode
+                - generic [ref=e151]:
+                  - generic [ref=e152]: Sign up to comment, edit, inspect and more.
+                  - generic [ref=e153]:
+                    - button [ref=e187]:
+                      - generic: Sign up
+                    - button [ref=e188]:
+                      - generic: Continue
+    - region [ref=e189]:
+      - toolbar [ref=e190]:
+        - button [ref=e191]
+  - group [ref=e38]:
+    - alert [ref=e40]
+    - alert [ref=e42]
+  - menu "29%, zoom and view options" [ref=e197]:
+    - generic [ref=e198]:
+      - generic [ref=e199]: Zoom/view options
+      - textbox "Zoom/view options" [active] [ref=e200]: 29%
+    - separator [ref=e201]
+    - menuitem [ref=e202]:
+      - generic [ref=e203]:
+        - text: Zoom in
+        - generic [aria-hidden] [ref=e205]: Ctrl++
+    - menuitem [ref=e206]:
+      - generic [ref=e207]:
+        - text: Zoom out
+        - generic [aria-hidden] [ref=e209]: Ctrl+–
+    - menuitem [ref=e210]:
+      - generic [ref=e211]:
+        - text: Zoom to fit
+        - generic [aria-hidden] [ref=e213]: "1"
+    - menuitemcheckbox "Zoom to 50%" [ref=e214]
+    - menuitemcheckbox [ref=e218]:
+      - generic [ref=e219]:
+        - text: Zoom to 100%
+        - generic [aria-hidden] [ref=e223]: Ctrl+0
+    - menuitemcheckbox "Zoom to 200%" [ref=e224]
+    - separator [ref=e228]
+    - menuitem "Pixel preview" [ref=e229]
+    - menuitemcheckbox [checked] [ref=e237]:
+      - generic [ref=e238]:
+        - text: Pixel grid
+        - generic [aria-hidden] [ref=e242]: Shift+′
+    - menuitemcheckbox [checked] [ref=e243]:
+      - generic [ref=e244]:
+        - text: Snap to pixel grid
+        - generic [aria-hidden] [ref=e248]: Ctrl+Shift+′
+    - menuitemcheckbox [ref=e249]:
+      - generic [ref=e250]:
+        - text: Rulers
+        - generic [aria-hidden] [ref=e254]: Shift+R
+    - menuitemcheckbox [checked] [ref=e255]:
+      - generic [ref=e256]:
+        - text: Multiplayer cursors
+        - generic [aria-hidden] [ref=e260]: Ctrl+Alt+\
+    - menuitemcheckbox "Additional labels" [checked] [ref=e261]
+    - separator [ref=e265]
+    - menuitemcheckbox [checked] [disabled] [ref=e266]:
+      - generic [ref=e267]:
+        - text: Comments
+        - generic [aria-hidden] [ref=e271]: Shift+C
+    - menuitemcheckbox [ref=e272]:
+      - generic [ref=e273]:
+        - text: Prototyping
+        - generic [aria-hidden] [ref=e277]: Shift+E

@@ -1,0 +1,269 @@
+- generic [active] [ref=f8e1]:
+  - banner [ref=f8e2]:
+    - generic [ref=f8e5]:
+      - generic [ref=f8e6]: Free Shipping on Orders 500 EGP
+      - generic [ref=f8e12]: New Arrivals Daily
+    - generic [ref=f8e17]:
+      - link "FreshCart home" [ref=f8e18] [cursor=pointer]:
+        - /url: /
+        - img "FreshCart" [ref=f8e19]
+      - search [ref=f8e21]:
+        - generic [ref=f8e22]: Search for products, brands and more
+        - searchbox "Search for products, brands and more" [ref=f8e23]
+        - button "Search" [ref=f8e24] [cursor=pointer]
+      - status "Loading" [ref=f8e26]
+    - navigation "Primary navigation" [ref=f8e29]:
+      - list [ref=f8e30]:
+        - listitem [ref=f8e31]:
+          - link "Home" [ref=f8e32] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f8e33]:
+          - link "Products" [ref=f8e34] [cursor=pointer]:
+            - /url: /products
+        - listitem [ref=f8e35]:
+          - link "Categories" [ref=f8e36] [cursor=pointer]:
+            - /url: /categories
+        - listitem [ref=f8e39]:
+          - link "Brands" [ref=f8e40] [cursor=pointer]:
+            - /url: /brands
+  - region "Notifications alt+T"
+  - main [ref=f8e41]:
+    - generic [ref=f8e42]:
+      - generic "Breadcrumb" [ref=f8e43]:
+        - link "Home" [ref=f8e44] [cursor=pointer]:
+          - /url: /
+        - generic [aria-hidden] [ref=f8e45]: /
+        - generic [ref=f8e46]: My Orders
+      - generic [ref=f8e47]:
+        - generic [ref=f8e52]:
+          - heading "My Orders" [level=1] [ref=f8e53]
+          - paragraph [ref=f8e54]: Track and manage your 8 orders
+        - link "Continue Shopping" [ref=f8e55] [cursor=pointer]:
+          - /url: /products
+      - region "Order history" [ref=f8e58]:
+        - article [ref=f8e59]:
+          - generic [ref=f8e60]:
+            - generic [ref=f8e66]: "1"
+            - generic [ref=f8e67]:
+              - generic [ref=f8e68]: Processing
+              - 'heading "Order #76188" [level=2] [ref=f8e72]'
+              - generic [ref=f8e73]:
+                - generic [ref=f8e74]: Feb 2, 2026
+                - generic [ref=f8e77]: 1 item
+                - generic [ref=f8e81]: Sadat City
+              - paragraph [ref=f8e85]: 149 EGP
+            - button "Hide" [expanded] [ref=f8e86] [cursor=pointer]
+          - generic [ref=f8e89]:
+            - generic [ref=f8e90]:
+              - heading "Order Items" [level=3] [ref=f8e91]
+              - generic [ref=f8e95]:
+                - generic [ref=f8e101]:
+                  - paragraph [ref=f8e102]: Woman Shawl
+                  - generic [ref=f8e103]: 1 × 149 EGP
+                - strong [ref=f8e104]: 149EGP
+            - generic [ref=f8e105]:
+              - generic [ref=f8e106]:
+                - heading "Delivery Address" [level=3] [ref=f8e107]
+                - paragraph [ref=f8e111]: Sadat City
+                - generic [ref=f8e112]: Sadat City, Abu Bakr
+                - link "01097514862" [ref=f8e113] [cursor=pointer]:
+                  - /url: tel:01097514862
+              - generic [ref=f8e116]:
+                - heading "Order Summary" [level=3] [ref=f8e117]
+                - generic [ref=f8e120]:
+                  - generic [ref=f8e121]: Subtotal
+                  - generic [ref=f8e122]: 149 EGP
+                - generic [ref=f8e123]:
+                  - generic [ref=f8e124]: Shipping
+                  - generic [ref=f8e125]: Free
+                - generic [ref=f8e126]:
+                  - generic [ref=f8e127]: Total
+                  - strong [ref=f8e128]: 149 EGP
+        - article [ref=f8e129]:
+          - generic [ref=f8e130]:
+            - generic [ref=f8e136]: "18"
+            - generic [ref=f8e137]:
+              - generic [ref=f8e138]: Processing
+              - 'heading "Order #76651" [level=2] [ref=f8e142]'
+              - generic [ref=f8e143]:
+                - generic [ref=f8e144]: Feb 8, 2026
+                - generic [ref=f8e147]: 18 items
+                - generic [ref=f8e151]: Nasr City
+              - paragraph [ref=f8e155]: 261,743 EGP
+            - button "Details" [ref=f8e156] [cursor=pointer]
+        - article [ref=f8e159]:
+          - generic [ref=f8e160]:
+            - generic [ref=f8e166]: "3"
+            - generic [ref=f8e167]:
+              - generic [ref=f8e168]: On the way
+              - 'heading "Order #76653" [level=2] [ref=f8e174]'
+              - generic [ref=f8e175]:
+                - generic [ref=f8e176]: Feb 8, 2026
+                - generic [ref=f8e179]: 3 items
+                - generic [ref=f8e183]: Madinaty
+              - paragraph [ref=f8e187]: 647 EGP
+            - button "Details" [ref=f8e188] [cursor=pointer]
+        - article [ref=f8e191]:
+          - generic [ref=f8e192]:
+            - generic [ref=f8e198]: "5"
+            - generic [ref=f8e199]:
+              - generic [ref=f8e200]: Processing
+              - 'heading "Order #77053" [level=2] [ref=f8e204]'
+              - generic [ref=f8e205]:
+                - generic [ref=f8e206]: Feb 11, 2026
+                - generic [ref=f8e209]: 5 items
+                - generic [ref=f8e213]: Sadat City
+              - paragraph [ref=f8e217]: 787 EGP
+            - button "Details" [ref=f8e218] [cursor=pointer]
+        - article [ref=f8e221]:
+          - generic [ref=f8e222]:
+            - generic [ref=f8e228]: "3"
+            - generic [ref=f8e229]:
+              - generic [ref=f8e230]: On the way
+              - 'heading "Order #77055" [level=2] [ref=f8e236]'
+              - generic [ref=f8e237]:
+                - generic [ref=f8e238]: Feb 11, 2026
+                - generic [ref=f8e241]: 3 items
+                - generic [ref=f8e245]: Sadat City
+              - paragraph [ref=f8e249]: 1,392 EGP
+            - button "Details" [ref=f8e250] [cursor=pointer]
+        - article [ref=f8e253]:
+          - generic [ref=f8e254]:
+            - generic [ref=f8e260]: "3"
+            - generic [ref=f8e261]:
+              - generic [ref=f8e262]: On the way
+              - 'heading "Order #77056" [level=2] [ref=f8e268]'
+              - generic [ref=f8e269]:
+                - generic [ref=f8e270]: Feb 11, 2026
+                - generic [ref=f8e273]: 3 items
+                - generic [ref=f8e277]: Nasr City
+              - paragraph [ref=f8e281]: 489 EGP
+            - button "Details" [ref=f8e282] [cursor=pointer]
+        - article [ref=f8e285]:
+          - generic [ref=f8e286]:
+            - generic [ref=f8e292]: "2"
+            - generic [ref=f8e293]:
+              - generic [ref=f8e294]: Processing
+              - 'heading "Order #77058" [level=2] [ref=f8e298]'
+              - generic [ref=f8e299]:
+                - generic [ref=f8e300]: Feb 11, 2026
+                - generic [ref=f8e303]: 2 items
+                - generic [ref=f8e307]: Sadat City
+              - paragraph [ref=f8e311]: 498 EGP
+            - button "Details" [ref=f8e312] [cursor=pointer]
+        - article [ref=f8e315]:
+          - generic [ref=f8e316]:
+            - generic [ref=f8e323]: "3"
+            - generic [ref=f8e324]:
+              - generic [ref=f8e325]: Delivered
+              - 'heading "Order #77061" [level=2] [ref=f8e328]'
+              - generic [ref=f8e329]:
+                - generic [ref=f8e330]: Feb 13, 2026
+                - generic [ref=f8e333]: 3 items
+                - generic [ref=f8e337]: Sadat City
+              - paragraph [ref=f8e341]: 5,477 EGP
+            - button "Details" [ref=f8e342] [cursor=pointer]
+  - contentinfo [ref=f8e345]:
+    - generic [ref=f8e347]:
+      - generic [ref=f8e348]:
+        - generic [ref=f8e349]:
+          - link "FreshCart home" [ref=f8e350] [cursor=pointer]:
+            - /url: /
+            - img "FreshCart" [ref=f8e351]
+          - paragraph [ref=f8e352]: FreshCart is your one-stop destination for quality products. From fashion to electronics, we bring you the best brands at competitive prices with a seamless shopping experience.
+          - generic [ref=f8e353]:
+            - link "+1 (800) 123-4567" [ref=f8e354] [cursor=pointer]:
+              - /url: tel:+18001234567
+            - link "support@freshcart.com" [ref=f8e358] [cursor=pointer]:
+              - /url: mailto:support@freshcart.com
+            - paragraph [ref=f8e363]:
+              - generic [ref=f8e367]: 123 Commerce Street, New York, NY 10001
+          - generic [ref=f8e368]:
+            - link "Facebook" [ref=f8e369] [cursor=pointer]:
+              - /url: https://www.facebook.com/
+            - link "Twitter" [ref=f8e372] [cursor=pointer]:
+              - /url: https://twitter.com/
+            - link "Instagram" [ref=f8e376] [cursor=pointer]:
+              - /url: https://www.instagram.com/
+            - link "YouTube" [ref=f8e380] [cursor=pointer]:
+              - /url: https://www.youtube.com/
+        - generic [ref=f8e383]:
+          - navigation "Shop" [ref=f8e384]:
+            - heading "Shop" [level=2] [ref=f8e385]
+            - list [ref=f8e386]:
+              - listitem [ref=f8e387]:
+                - link "All Products" [ref=f8e388] [cursor=pointer]:
+                  - /url: /products
+              - listitem [ref=f8e389]:
+                - link "Categories" [ref=f8e390] [cursor=pointer]:
+                  - /url: /categories
+              - listitem [ref=f8e391]:
+                - link "Brands" [ref=f8e392] [cursor=pointer]:
+                  - /url: /brands
+              - listitem [ref=f8e393]:
+                - link "Electronics" [ref=f8e394] [cursor=pointer]:
+                  - /url: /categories
+              - listitem [ref=f8e395]:
+                - link "Men's Fashion" [ref=f8e396] [cursor=pointer]:
+                  - /url: /categories
+              - listitem [ref=f8e397]:
+                - link "Women's Fashion" [ref=f8e398] [cursor=pointer]:
+                  - /url: /categories
+          - navigation "Account" [ref=f8e399]:
+            - heading "Account" [level=2] [ref=f8e400]
+            - list [ref=f8e401]:
+              - listitem [ref=f8e402]:
+                - link "My Account" [ref=f8e403] [cursor=pointer]:
+                  - /url: /profile
+              - listitem [ref=f8e404]:
+                - link "Order History" [ref=f8e405] [cursor=pointer]:
+                  - /url: /profile
+              - listitem [ref=f8e406]:
+                - link "Wishlist" [ref=f8e407] [cursor=pointer]:
+                  - /url: /wishlist
+              - listitem [ref=f8e408]:
+                - link "Shopping Cart" [ref=f8e409] [cursor=pointer]:
+                  - /url: /cart
+              - listitem [ref=f8e410]:
+                - link "Sign In" [ref=f8e411] [cursor=pointer]:
+                  - /url: /login
+              - listitem [ref=f8e412]:
+                - link "Create Account" [ref=f8e413] [cursor=pointer]:
+                  - /url: /register
+          - navigation "Support" [ref=f8e414]:
+            - heading "Support" [level=2] [ref=f8e415]
+            - list [ref=f8e416]:
+              - listitem [ref=f8e417]:
+                - link "Contact Us" [ref=f8e418] [cursor=pointer]:
+                  - /url: mailto:support@freshcart.com
+              - listitem [ref=f8e419]:
+                - link "Help Center" [ref=f8e420] [cursor=pointer]:
+                  - /url: mailto:support@freshcart.com?subject=Help
+              - listitem [ref=f8e421]:
+                - link "Shipping Info" [ref=f8e422] [cursor=pointer]:
+                  - /url: mailto:support@freshcart.com?subject=Shipping
+              - listitem [ref=f8e423]:
+                - link "Returns & Refunds" [ref=f8e424] [cursor=pointer]:
+                  - /url: mailto:support@freshcart.com?subject=Returns
+              - listitem [ref=f8e425]:
+                - link "Track Order" [ref=f8e426] [cursor=pointer]:
+                  - /url: /profile
+          - navigation "Legal" [ref=f8e427]:
+            - heading "Legal" [level=2] [ref=f8e428]
+            - list [ref=f8e429]:
+              - listitem [ref=f8e430]:
+                - link "Privacy Policy" [ref=f8e431] [cursor=pointer]:
+                  - /url: mailto:support@freshcart.com?subject=Privacy%20Policy
+              - listitem [ref=f8e432]:
+                - link "Terms of Service" [ref=f8e433] [cursor=pointer]:
+                  - /url: mailto:support@freshcart.com?subject=Terms%20of%20Service
+              - listitem [ref=f8e434]:
+                - link "Cookie Policy" [ref=f8e435] [cursor=pointer]:
+                  - /url: mailto:support@freshcart.com?subject=Cookie%20Policy
+      - generic [ref=f8e436]:
+        - paragraph [ref=f8e437]: © 2026 FreshCart. All rights reserved.
+        - group "Accepted payment methods" [ref=f8e438]:
+          - generic [ref=f8e439]: Visa
+          - generic [ref=f8e440]: Mastercard
+          - generic [ref=f8e441]: PayPal
+  - button "Open Next.js Dev Tools" [ref=f8e447] [cursor=pointer]

@@ -1,0 +1,134 @@
+- generic [active] [ref=f12e1]:
+  - banner [ref=f12e2]:
+    - generic [ref=f12e5]:
+      - generic [ref=f12e6]: Free Shipping on Orders 500 EGP
+      - generic [ref=f12e12]: New Arrivals Daily
+    - generic [ref=f12e17]:
+      - link "FreshCart home" [ref=f12e18] [cursor=pointer]:
+        - /url: /
+        - img "FreshCart" [ref=f12e19]
+      - search [ref=f12e21]:
+        - generic [ref=f12e22]: Search for products, brands and more
+        - searchbox "Search for products, brands and more" [ref=f12e23]
+        - button "Search" [ref=f12e24] [cursor=pointer]
+      - status "Loading" [ref=f12e26]
+    - navigation "Primary navigation" [ref=f12e29]:
+      - list [ref=f12e30]:
+        - listitem [ref=f12e31]:
+          - link "Home" [ref=f12e32] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f12e33]:
+          - link "Products" [ref=f12e34] [cursor=pointer]:
+            - /url: /products
+        - listitem [ref=f12e35]:
+          - link "Categories" [ref=f12e36] [cursor=pointer]:
+            - /url: /categories
+        - listitem [ref=f12e39]:
+          - link "Brands" [ref=f12e40] [cursor=pointer]:
+            - /url: /brands
+  - region "Notifications alt+T"
+  - main [ref=f12e41]:
+    - heading "Groceries delivered fresh." [level=1] [ref=f12e42]
+  - contentinfo [ref=f12e43]:
+    - generic [ref=f12e45]:
+      - generic [ref=f12e46]:
+        - generic [ref=f12e47]:
+          - link "FreshCart home" [ref=f12e48] [cursor=pointer]:
+            - /url: /
+            - img "FreshCart" [ref=f12e49]
+          - paragraph [ref=f12e50]: FreshCart is your one-stop destination for quality products. From fashion to electronics, we bring you the best brands at competitive prices with a seamless shopping experience.
+          - generic [ref=f12e51]:
+            - link "+1 (800) 123-4567" [ref=f12e52] [cursor=pointer]:
+              - /url: tel:+18001234567
+            - link "support@freshcart.com" [ref=f12e56] [cursor=pointer]:
+              - /url: mailto:support@freshcart.com
+            - paragraph [ref=f12e61]:
+              - generic [ref=f12e65]: 123 Commerce Street, New York, NY 10001
+          - generic [ref=f12e66]:
+            - link "Facebook" [ref=f12e67] [cursor=pointer]:
+              - /url: https://www.facebook.com/
+            - link "Twitter" [ref=f12e70] [cursor=pointer]:
+              - /url: https://twitter.com/
+            - link "Instagram" [ref=f12e74] [cursor=pointer]:
+              - /url: https://www.instagram.com/
+            - link "YouTube" [ref=f12e78] [cursor=pointer]:
+              - /url: https://www.youtube.com/
+        - generic [ref=f12e81]:
+          - navigation "Shop" [ref=f12e82]:
+            - heading "Shop" [level=2] [ref=f12e83]
+            - list [ref=f12e84]:
+              - listitem [ref=f12e85]:
+                - link "All Products" [ref=f12e86] [cursor=pointer]:
+                  - /url: /products
+              - listitem [ref=f12e87]:
+                - link "Categories" [ref=f12e88] [cursor=pointer]:
+                  - /url: /categories
+              - listitem [ref=f12e89]:
+                - link "Brands" [ref=f12e90] [cursor=pointer]:
+                  - /url: /brands
+              - listitem [ref=f12e91]:
+                - link "Electronics" [ref=f12e92] [cursor=pointer]:
+                  - /url: /categories
+              - listitem [ref=f12e93]:
+                - link "Men's Fashion" [ref=f12e94] [cursor=pointer]:
+                  - /url: /categories
+              - listitem [ref=f12e95]:
+                - link "Women's Fashion" [ref=f12e96] [cursor=pointer]:
+                  - /url: /categories
+          - navigation "Account" [ref=f12e97]:
+            - heading "Account" [level=2] [ref=f12e98]
+            - list [ref=f12e99]:
+              - listitem [ref=f12e100]:
+                - link "My Account" [ref=f12e101] [cursor=pointer]:
+                  - /url: /profile
+              - listitem [ref=f12e102]:
+                - link "Order History" [ref=f12e103] [cursor=pointer]:
+                  - /url: /profile
+              - listitem [ref=f12e104]:
+                - link "Wishlist" [ref=f12e105] [cursor=pointer]:
+                  - /url: /wishlist
+              - listitem [ref=f12e106]:
+                - link "Shopping Cart" [ref=f12e107] [cursor=pointer]:
+                  - /url: /cart
+              - listitem [ref=f12e108]:
+                - link "Sign In" [ref=f12e109] [cursor=pointer]:
+                  - /url: /login
+              - listitem [ref=f12e110]:
+                - link "Create Account" [ref=f12e111] [cursor=pointer]:
+                  - /url: /register
+          - navigation "Support" [ref=f12e112]:
+            - heading "Support" [level=2] [ref=f12e113]
+            - list [ref=f12e114]:
+              - listitem [ref=f12e115]:
+                - link "Contact Us" [ref=f12e116] [cursor=pointer]:
+                  - /url: mailto:support@freshcart.com
+              - listitem [ref=f12e117]:
+                - link "Help Center" [ref=f12e118] [cursor=pointer]:
+                  - /url: mailto:support@freshcart.com?subject=Help
+              - listitem [ref=f12e119]:
+                - link "Shipping Info" [ref=f12e120] [cursor=pointer]:
+                  - /url: mailto:support@freshcart.com?subject=Shipping
+              - listitem [ref=f12e121]:
+                - link "Returns & Refunds" [ref=f12e122] [cursor=pointer]:
+                  - /url: mailto:support@freshcart.com?subject=Returns
+              - listitem [ref=f12e123]:
+                - link "Track Order" [ref=f12e124] [cursor=pointer]:
+                  - /url: /profile
+          - navigation "Legal" [ref=f12e125]:
+            - heading "Legal" [level=2] [ref=f12e126]
+            - list [ref=f12e127]:
+              - listitem [ref=f12e128]:
+                - link "Privacy Policy" [ref=f12e129] [cursor=pointer]:
+                  - /url: mailto:support@freshcart.com?subject=Privacy%20Policy
+              - listitem [ref=f12e130]:
+                - link "Terms of Service" [ref=f12e131] [cursor=pointer]:
+                  - /url: mailto:support@freshcart.com?subject=Terms%20of%20Service
+              - listitem [ref=f12e132]:
+                - link "Cookie Policy" [ref=f12e133] [cursor=pointer]:
+                  - /url: mailto:support@freshcart.com?subject=Cookie%20Policy
+      - generic [ref=f12e134]:
+        - paragraph [ref=f12e135]: © 2026 FreshCart. All rights reserved.
+        - group "Accepted payment methods" [ref=f12e136]:
+          - generic [ref=f12e137]: Visa
+          - generic [ref=f12e138]: Mastercard
+          - generic [ref=f12e139]: PayPal
